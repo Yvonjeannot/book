@@ -1,0 +1,11 @@
+public class name;
+private string firstname;
+private string lastname;
+
+public name{
+
+firstname ="";
+lastname = "";
+
+Scanner input.system out.println("what is your first name");
+}
